@@ -15,14 +15,12 @@ Este projeto é uma solução abrangente para automatizar a criação de vídeos
 ## Estrutura do Projeto
 
 ```
-30.06 v4/
 ├── audio_processing.py
 ├── gemini_analysis.py
 ├── main.py
 ├── subtitle_styler.py
 ├── text_processing.py
 ├── transcription.py
-├── video_editing_new.py
 ├── video_editing.py
 ├── profiles/
 │   ├── eae.json
