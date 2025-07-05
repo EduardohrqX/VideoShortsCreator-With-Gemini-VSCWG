@@ -63,4 +63,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para rela
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` (se existir) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. 
