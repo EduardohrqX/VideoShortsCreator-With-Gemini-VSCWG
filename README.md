@@ -1,4 +1,4 @@
-# 30.06 v4 - Automação de Criação de Shorts para YouTube
+# Ferramenta de Automação e Criação de Shorts para YouTube
 
 Este projeto é uma solução abrangente para automatizar a criação de vídeos curtos (Shorts) para o YouTube, desde a transcrição de áudio até a edição final do vídeo. Ele integra diversas etapas de processamento para otimizar o fluxo de trabalho de criadores de conteúdo.
 
