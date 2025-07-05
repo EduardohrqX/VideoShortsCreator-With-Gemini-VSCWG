@@ -1,4 +1,4 @@
-# 30.06 v4 - Automação de Criação de Shorts para YouTube
+# Ferramenta de Automação e Criação de Shorts para YouTube
 
 Este projeto é uma solução abrangente para automatizar a criação de vídeos curtos (Shorts) para o YouTube, desde a transcrição de áudio até a edição final do vídeo. Ele integra diversas etapas de processamento para otimizar o fluxo de trabalho de criadores de conteúdo.
 
@@ -7,7 +7,7 @@ Este projeto é uma solução abrangente para automatizar a criação de vídeos
 -   **Processamento de Áudio:** Extração e manipulação de áudio de vídeos.
 -   **Transcrições:** Geração de transcrições precisas a partir de arquivos de áudio.
 -   **Processamento de Texto:** Análise e otimização de texto para legendas e roteiros.
--   **Análise com Gemini (IA):** Integração com a API Gemini para análise de conteúdo, geração de ideias ou otimização de roteiros (presumido).
+-   **Análise com Gemini (IA):** Integração com a API Gemini para análise de conteúdo, geração de ideias ou otimização de roteiros.
 -   **Estilização de Legendas:** Aplicação de estilos personalizados às legendas para melhor visualização.
 -   **Edição de Vídeo:** Automação de tarefas de edição para compilar os Shorts finais.
 -   **Gerenciamento de Perfis:** Suporte a múltiplos perfis de configuração para diferentes tipos de conteúdo ou canais.
@@ -15,14 +15,12 @@ Este projeto é uma solução abrangente para automatizar a criação de vídeos
 ## Estrutura do Projeto
 
 ```
-30.06 v4/
 ├── audio_processing.py
 ├── gemini_analysis.py
 ├── main.py
 ├── subtitle_styler.py
 ├── text_processing.py
 ├── transcription.py
-├── video_editing_new.py
 ├── video_editing.py
 ├── profiles/
 │   ├── eae.json
