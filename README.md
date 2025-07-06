@@ -40,7 +40,7 @@ Lembre-se que ele roda na versão do python 3.10, qualquer versão superior a es
 Certifique-se de ter o Python 3.10 (ou superior) instalado. As dependências do projeto podem ser instaladas via `pip`.
 
 ```bash
-pip install -r requirements.txt # (Assumindo que existe um arquivo requirements.txt)
+pip install -r requirements.txt # 
 ```
 
 ### Configuração de Perfis
